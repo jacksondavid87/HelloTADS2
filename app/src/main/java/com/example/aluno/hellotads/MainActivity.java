@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ImageView imagem = (ImageView) findViewById(R.id.image);
-        imagem.setImageResource(R.drawable.smile);
+        //imagem.setImageResource(R.drawable.smile);
     }
 }
